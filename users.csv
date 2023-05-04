@@ -1,4 +1,2 @@
-name,age
-Bob,28
-Tommy,23
-John,34
+name,age,gender,email,phone
+Васін Ігор Віталійович,26 років,Чоловіча стать,vasin_igor96@ukr.net,0969894433
